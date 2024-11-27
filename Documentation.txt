@@ -1,0 +1,14 @@
+Employee Tracker CLI Application
+This is a simple Python-based Command Line Interface (CLI) application to manage employee information for the company ABC. The application allows adding, updating, deleting, viewing, and searching employee records. It also ensures that all data is stored persistently in a .txt file.
+
+Features:
+1. Add Employee: Add a new employee to the record.
+2. Update Employee: Modify an existing employee's details.
+3. Delete Employee: Remove an employee record permanently.
+4. View All Employees: Display all stored employee information.
+5. Search Employee: Search for employees by name or designation.
+6. Persistent Storage: Employee data is saved in a .txt file and reloaded when the program restarts.
+
+Technologies Used
+Language: Python 3
+File Handling: For saving and retrieving employee data
